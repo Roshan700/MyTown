@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "993225430716",
+    "firebase_url": "https://mytown-d309b.firebaseio.com",
+    "project_id": "mytown-d309b",
+    "storage_bucket": "mytown-d309b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993225430716:android:983ba8dfc6d686ae",
+        "android_client_info": {
+          "package_name": "com.nkassociates.mytown"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "993225430716-9oh5bofff7sr33r20521gajcd4iqevg3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nkassociates.mytown",
+            "certificate_hash": "d775ea57e8bf0ad0c76c16439382beed4e6fd72b"
+          }
+        },
+        {
+          "client_id": "993225430716-3eofrksesu0d8ivde6m3mcchb7h76ge8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPU7YERsbbmoHLo1fY6xBRB6ZHzPKiFgw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "993225430716-3eofrksesu0d8ivde6m3mcchb7h76ge8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

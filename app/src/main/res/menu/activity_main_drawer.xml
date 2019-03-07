@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/navRateUs"
+            android:icon="@drawable/ic_star_black_24dp"
+            android:title="Rate Us" />
+        <item
+            android:id="@+id/navBookmarked"
+            android:icon="@drawable/ic_favorite_black_24dp"
+            android:title="Bookmarked" />
+        <item
+            android:id="@+id/navAboutUs"
+            android:icon="@android:drawable/ic_dialog_info"
+            android:title="About Us" />
+        <item
+            android:id="@+id/navShare"
+            android:icon="@drawable/ic_menu_share"
+            android:title="Share" />
+    </group>
+</menu>
